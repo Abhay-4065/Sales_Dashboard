@@ -1,4 +1,3 @@
-<img width="1427" height="801" alt="image" src="https://github.com/user-attachments/assets/d43748a4-1092-4950-aaec-1d68fa34f58c" /><img width="1427" height="801" alt="image" src="https://github.com/user-attachments/assets/d43748a4-1092-4950-aaec-1d68fa34f58c" /># Sales_Dashboard
 📊 Sales Dashboard 📌 Overview This interactive sales dashboard provides a visual representation of sales data, helping businesses analyze performance across different metrics. It includes insights on profit, sales amount, quantity sold, customer behavior, payment methods, and product categories.
 
 🚀 Features KPIs at a Glance: Total sales, profit, quantity, and average order value (AOV).
